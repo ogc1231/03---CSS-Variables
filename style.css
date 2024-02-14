@@ -26,3 +26,7 @@ img {
   padding: var(--spacing);
   filter: blur(var(--blur));
 }
+
+.highlight {
+  color: var(--base);
+}
